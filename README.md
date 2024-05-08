@@ -4,6 +4,7 @@ This Excel project is dedicated to data analysis, focusing on cleaning the "Bike
 
 ![Dynamic Dashboard](Dashboard.PNG)
 
+
 ## Steps Taken:
 
 ### 1. Data Cleaning:
@@ -20,5 +21,6 @@ This Excel project is dedicated to data analysis, focusing on cleaning the "Bike
 
 ### 3. Dynamic Dashboard Building:
    - Developed an interactive dashboard to visually represent key insights derived from the dataset.
+
 
 Feel free to explore the repository and delve into the data analysis process. Happy analyzing! 🚲📊
