@@ -1,6 +1,7 @@
-# BikeBuyers_DataAnalysis_ExcelProject
+# BikeBuyers Data Analysis Excel Project
 
-This Excel project is dedicated to data analysis, focusing on cleaning the "Bike Buyers" dataset and creating a dynamic dashboard to visualize insights effectively.
+Welcome to the BikeBuyers Data Analysis Excel Project! This project is designed for in-depth data analysis, focusing on cleaning the "Bike Buyers" dataset and developing a dynamic dashboard to visualize insights effectively.
+
 
 ![Dynamic Dashboard](Dashboard.PNG)
 
